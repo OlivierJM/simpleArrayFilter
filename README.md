@@ -1,2 +1,0 @@
-# simpleArrayFilter
-Created with CodeSandbox
